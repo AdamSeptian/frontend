@@ -1,0 +1,49 @@
+.btn-purple {
+    background-color: #724CF9;
+    color: white;
+}
+.btn-purple:hover {
+    background-color: #7352eb;
+}
+.bg-purple {
+    background-color: #724CF9;
+}
+.btn-white {
+    background-color: white;
+    color: black;
+}
+.btn-white:hover {
+    background-color: whitesmoke;
+}
+.bg-white {
+    background-color: white;
+}
+.bg-green {
+    background-color: #57CC99;
+}
+.bg-red {
+    background-color: #FF686B;
+}
+.bg-whitesmoke {
+    background-color: whitesmoke;
+}
+.btn-error {
+    color: white;
+}
+.btn-warning {
+    color: white;
+}
+.btn-accent {
+    color: white;
+}
+.btn-purple-active {
+    background-color: #5b3ccb;
+}
+.btn-transparent {
+    background-color: transparent;
+    color: white;
+}
+.btn-transparent:hover {
+    background-color: transparent;
+    color: whitesmoke;
+}
